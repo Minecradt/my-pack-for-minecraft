@@ -1,1 +1,1 @@
-# my-pack-for-minecraft
+my pack
