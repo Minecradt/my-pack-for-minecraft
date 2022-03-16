@@ -1,0 +1,1 @@
+set file name to minecraft name and extract to data packs in your minecraft datapacks foder
